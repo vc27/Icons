@@ -1,6 +1,8 @@
-### Point Buy
+- Reo
+- Normal looking person for this time period
+- 5'6", slender build, girl dressed like boy, ball cap, yellow hair, backpack
 
-55
+### Point Buy = 55
 
 32, 3, 20
 
@@ -11,6 +13,7 @@
 - 3 - Intellect
 - 7 - Awareness
 - 10 - Willpower
+- Stamina = (will+str) 13
 
 # Aspects
 
@@ -33,6 +36,7 @@
 
 - Force field
 - Flight
+- Moving
 
 *6 - Time Control*
 
